@@ -33,7 +33,7 @@
 .hero {
     height: 100vh;
     width: 100%;
-    background-image: url(me.jpg);
+    background-image: url(me.jpeg);
     /*border: 4px solid #E3E0CD;*/
     /*border-radius: 4px;*/
     background-size: cover;
